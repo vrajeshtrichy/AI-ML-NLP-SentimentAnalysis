@@ -1,21 +1,6 @@
-Certainly! Here's the complete `README.md` content for your GitHub repository:
-
-```markdown
 # IMDB Reviews Sentiment Analysis using Transformers (BERT)
 
 This project is an example of sentiment analysis on the IMDB dataset using Transformers and BERT.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Overview of the IMDB Dataset](#overview-of-the-imdb-dataset)
-- [Tokenizer](#tokenizer)
-- [Tiny IMDB](#tiny-imdb)
-- [Training Run](#training-run)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
