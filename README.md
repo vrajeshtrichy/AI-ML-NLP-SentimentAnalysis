@@ -51,8 +51,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- This project was developed by [Your Name].
+- This project was developed by Rajesh Kanna V.
 - The code and dataset used are based on open-source materials and are credited accordingly.
-```
-
-Replace `[Your Name]` in the "Acknowledgments" section with your name or your team's name. Make sure to include this README in the root of your GitHub repository, and it will provide a clear and informative introduction to your project for potential users and collaborators.
