@@ -1,1 +1,73 @@
-# MachineLearning_NLP
+Certainly! Here's the complete `README.md` content for your GitHub repository:
+
+```markdown
+# IMDB Reviews Sentiment Analysis using Transformers (BERT)
+
+This project is an example of sentiment analysis on the IMDB dataset using Transformers and BERT.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Overview of the IMDB Dataset](#overview-of-the-imdb-dataset)
+- [Tokenizer](#tokenizer)
+- [Tiny IMDB](#tiny-imdb)
+- [Training Run](#training-run)
+- [Usage](#usage)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+This Jupyter Notebook project demonstrates text classification for sentiment analysis on the IMDB dataset. It uses Transformers and the BERT model for natural language processing.
+
+## Setup
+
+Before running the code, you need to install the required libraries:
+
+```bash
+pip install transformers[sentencepiece] datasets
+```
+
+## Overview of the IMDB Dataset
+
+The IMDB dataset contains movie reviews labeled as positive or negative sentiments. This section provides an overview of the dataset, including data visualization.
+
+## Tokenizer
+
+We use a tokenizer to preprocess the text data before feeding it into the model.
+
+## Tiny IMDB
+
+For demonstration purposes, a smaller subset of the IMDB dataset, referred to as "Tiny IMDB," is used to fine-tune the model.
+
+## Training Run
+
+The model is trained on the Tiny IMDB dataset and evaluated. You can also perform your own training run on the full IMDB dataset by following the instructions in the notebook.
+
+## Usage
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/vrajeshtrichy/AI-ML-NLP-SentimentAnalysis.git
+cd AI-ML-NLP-SentimentAnalysis/IMDB-ReviewsSentimentAnalysis-using-Transformers-BERT
+```
+
+2. Install the required dependencies as mentioned in the "Setup" section.
+
+3. Open the Jupyter Notebook `IMDB_text_classification.ipynb` for detailed code and analysis.
+
+4. Follow the notebook's instructions to run and experiment with the code.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- This project was developed by [Your Name].
+- The code and dataset used are based on open-source materials and are credited accordingly.
+```
+
+Replace `[Your Name]` in the "Acknowledgments" section with your name or your team's name. Make sure to include this README in the root of your GitHub repository, and it will provide a clear and informative introduction to your project for potential users and collaborators.
